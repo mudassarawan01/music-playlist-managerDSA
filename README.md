@@ -74,4 +74,4 @@ UML class diagram included in /diagrams/
 
 🔗 LinkedIn
 Check out our LinkedIn post:
-https://www.linkedin.com/posts/muhammad-abdullah-hassan-88a1b4368_cplusplus-datastructures-dsaproject-activity-7333337504508485632-q5d0
+https://www.linkedin.com/posts/mudassar-awan-3b52b4361_cplusplus-datastructures-dsaproject-activity-7333368562851479553-nYVs
