@@ -1,8 +1,10 @@
 # music-playlist-manager
 🎵 Music Playlist Manager – C++ DSA Project
+
 A console-based music playlist management system developed as a 4th-semester Data Structures & Algorithms project at IIUI. The project demonstrates the use of core data structures and algorithms including linked lists, hash maps, sorting, and searching — all manually implemented in C++.
 
 🧠 Features
+
 Add, delete, and view songs in a playlist
 
 Sort songs by title using:
@@ -33,6 +35,7 @@ Compiler: Dev-C++ / g++ (C++98 compatible)
 Concepts: OOP, Linked List, Hash Table, Sorting & Searching Algorithms
 
 📚 Data Structures Used
+
 Structure	Purpose
 Song class	Stores individual song data
 Node class	Doubly linked list node
@@ -40,6 +43,7 @@ LinkedList	Stores the entire playlist
 HashMap	Fast lookup by song title
 
 🧪 Algorithms Used
+
 Algorithm	Type	Use Case
 Linear Search	Searching	Brute-force search by title
 Hash Lookup	Searching	Fast lookup via custom hash map
@@ -48,6 +52,7 @@ Merge Sort	Sorting	Efficient sort by song title
 
 
 📊 Performance Snapshot
+
 Operation	Time (µs)	Method
 Search Song	160	Linear Search
 Search Song	12	Hash Lookup
@@ -55,6 +60,7 @@ Sort Playlist	830	Bubble Sort
 Sort Playlist	142	Merge Sort
 
 👥 Authors
+
 Muhammad Abdullah Hassan (4806-FOC/BSSE/F23)
 
 Muhammad Mudassar Awan (4811-FOC/BSSE/F23)
